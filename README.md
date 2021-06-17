@@ -9246,7 +9246,7 @@ If contributing to the documentation, please edit [`README.md`](README.md) direc
         <a href="https://github.com/rath3t">
             <img src="https://avatars.githubusercontent.com/u/10537464?v=4" width="100;" alt="rath3t"/>
             <br />
-            <sub><b>rath3t</b></sub>
+            <sub><b>Rath3t</b></sub>
         </a>
     </td>
     <td align="center">
