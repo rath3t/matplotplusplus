@@ -9243,6 +9243,13 @@ If contributing to the documentation, please edit [`README.md`](README.md) direc
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/rath3t">
+            <img src="https://avatars.githubusercontent.com/u/10537464?v=4" width="100;" alt="rath3t"/>
+            <br />
+            <sub><b>rath3t</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/alandefreitas">
             <img src="https://avatars.githubusercontent.com/u/5369819?v=4" width="100;" alt="alandefreitas"/>
             <br />
@@ -9276,15 +9283,15 @@ If contributing to the documentation, please edit [`README.md`](README.md) direc
             <br />
             <sub><b>Actions-user</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/xnorpx">
             <img src="https://avatars.githubusercontent.com/u/302709?v=4" width="100;" alt="xnorpx"/>
             <br />
             <sub><b>Marcus Asteborg</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Zengit123">
             <img src="https://avatars.githubusercontent.com/u/13079947?v=4" width="100;" alt="Zengit123"/>
@@ -9319,15 +9326,15 @@ If contributing to the documentation, please edit [`README.md`](README.md) direc
             <br />
             <sub><b>BjC6rn Sundin</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/dimztimz">
             <img src="https://avatars.githubusercontent.com/u/6236568?v=4" width="100;" alt="dimztimz"/>
             <br />
             <sub><b>Dimitrij Mijoski</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/MaBnt">
             <img src="https://avatars.githubusercontent.com/u/28400222?v=4" width="100;" alt="MaBnt"/>
@@ -9362,7 +9369,8 @@ If contributing to the documentation, please edit [`README.md`](README.md) direc
             <br />
             <sub><b>Myd7349</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/ankane">
             <img src="https://avatars3.githubusercontent.com/u/220358?v=4" width="100;" alt="ankane"/>
