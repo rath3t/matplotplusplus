@@ -1,5 +1,6 @@
+if(NOT MinGW)
 find_package(Filesystem REQUIRED COMPONENTS Experimental Final)
-
+endif()
 #######################################################
 ### Library                                         ###
 #######################################################
@@ -97,9 +98,13 @@ target_include_directories(matplot
            $<INSTALL_INTERFACE:${CMAKE_INSTALL_INCLUDEDIR}>)
 
 # Dependencies
+if(NOT MinGW)
 target_link_libraries_system(matplot
   PRIVATE cimg nodesoup std::filesystem)
-
+else()
+target_link_libraries_system(matplot
+  PRIVATE cimg nodesoup)
+endif()
 # Required compiler features required
 # https://cmake.org/cmake/help/v3.14/manual/cmake-compile-features.7.html#requiring-language-standards
 target_compile_features(matplot PUBLIC cxx_std_17)
